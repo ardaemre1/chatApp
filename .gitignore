@@ -27,8 +27,11 @@ render.experimental.xml
 *.keystore
 
 # Google Services (e.g. APIs or Firebase)
-.env
 google-services.json
 
 # Android Profiling
 *.hprof
+
+
+# Secury Data Files
+.env
